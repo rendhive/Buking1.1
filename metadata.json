@@ -1,0 +1,6 @@
+{
+  "name": "Odoo 17 Campus Asset Booking Modeler",
+  "description": "Comprehensive Odoo 17 module code generator and visual workflow simulator for centralized campus asset booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
